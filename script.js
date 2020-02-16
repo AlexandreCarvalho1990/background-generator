@@ -3,7 +3,7 @@
 var database = [
 	{
 		username: "andrei",
-		password: "supersecret"
+		password: "SUPERCART1990"
 	},
 	{
 		username: "susan",
